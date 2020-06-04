@@ -18,7 +18,7 @@ class UpdateTaskResultsDurationType extends TotemMigration
 //                 $table->decimal('duration', 24, 14)->charset('')->collation('')->change();
 //             });
 //     }
-
+//
     /**
      * Reverse the migrations.
      *
